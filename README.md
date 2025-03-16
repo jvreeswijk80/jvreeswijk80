@@ -1,6 +1,6 @@
 ## Jessica Vreeswijk - @jvreeswijk80 👋
 
-Hi, I'm Jessica. I'm an experienced project and program manager making a career pivot to coding. I am fascinated by the transformation of knowledge work that AI is causing and I am excited to be part of identifying the high leverage applictions that will propel us to next level. I learned to code Pascal, Javascript and C++ a million years ago and have only done some minor VisualBasic for Applications coding in the last 20 years. So I'm on a learning journey starting with Python, Cursor, GitHub and AI APIs.
+Hi, I'm Jessica. I'm an experienced project and program manager making a career pivot to coding. I am fascinated by the transformation of knowledge work that AI is causing and I am excited to be part of identifying the high leverage applictions that will propel us to next level. I learned to code in Pascal, Javascript and C++ a million years ago and have only done some minor VisualBasic for Applications coding in the last 20 years. So I'm on a learning journey starting with Python, Cursor, GitHub and AI APIs.
 
 <!--
 **jvreeswijk80/jvreeswijk80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
